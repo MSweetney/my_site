@@ -1,0 +1,50 @@
+TODO: Make a stackoverflow question about autoincrementing parameter in django models
+
+
+Designing:
+-Nav bar
+-Plain text
+-Many images
+-Search bar
+
+
+-Bootstrap
+TODO: Heroku deployment
+
+TODO: Make a user login and stuff just to experiment with Authentication
+
+TODO: Security side of page?
+
+TODO: testing of work, for that i need probably a page with something to insert
+
+TODO: REST integration on previous TODO
+
+TODO: fill with info about design adn development principles
+
+TODO: i guess make a search possible?
+
+TODO: something with web servers?
+
+
+https://habr.com/ru/post/439576/
+
+https://habr.com/ru/company/mailru/blog/506824/
+
+https://habr.com/ru/post/523842/   - Apache
+
+Questions:
+What is Middleware
+Regular expressions urls?
+What is AppConfig
+Bootstrap specific css classes
+why is models.Model?
+what does migration do and od I need all of these initial files?
+
+How does user creation form look like?
+
+Themes for blog posts:
+All about settings
+
+
+
+form.save - if it is User form it saves and hashes the password, but what happens if it isnt User? - How do forms save?
