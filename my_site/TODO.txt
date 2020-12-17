@@ -40,11 +40,16 @@ Bootstrap specific css classes
 why is models.Model?
 what does migration do and od I need all of these initial files?
 
+Django signals??
+
 How does user creation form look like?
 
 Themes for blog posts:
-All about settings
-
+All about settings:
+    - What settings can be useful?
+More detailed work with User:
+    - how is it catching data, auth
+    - how is it looking inside
 
 
 form.save - if it is User form it saves and hashes the password, but what happens if it isnt User? - How do forms save?
